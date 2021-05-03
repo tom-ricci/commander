@@ -1,0 +1,19 @@
+{
+  "name": "commander",
+  "version": "1.0.0",
+  "description": "Slash and text command generator for discord.js, discord.py, and JDA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-ricci/commander.git"
+  },
+  "author": "Thomas Ricci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tom-ricci/commander/issues"
+  },
+  "homepage": "https://github.com/tom-ricci/commander#readme"
+}
